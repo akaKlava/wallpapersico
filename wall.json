@@ -1,0 +1,30 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Mularush",
+			"url": "https://raw.githubusercontent.com/akaKlava/wallpapersico/master/droid1.png",
+			"name": "Droid1"
+		},
+		{
+			"author": "Mularush",
+			"url": "https://raw.githubusercontent.com/akaKlava/wallpapersico/master/droid2.png",
+			"name": "Droid2"
+		},
+		{
+			"author": "Mularush",
+			"url": "https://raw.githubusercontent.com/akaKlava/wallpapersico/master/droid3.png",
+			"name": "Droid3"
+		},
+		{
+			"author": "Mularush",
+			"url": "https://raw.githubusercontent.com/akaKlava/wallpapersico/master/droid4.png",
+			"name": "Droid4"
+		},
+		{
+			"author": "Mularush",
+			"url": "https://raw.githubusercontent.com/akaKlava/wallpapersico/master/droid5.png",
+			"name": "Droid5"
+		}
+	]
+}
